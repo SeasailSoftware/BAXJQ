@@ -1,0 +1,836 @@
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 IndexBase 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 IndexItem 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 ColumnIndex 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 PageIndex 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 CellStore`1 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 CellsStoreEnumerator`1 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 FlagCellStore 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 eEndStyle 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 eEndSize 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 eShapeStyle 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 eTextAlignment 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 eFillStyle 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 Ionic.Zip.ZipInputStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelBackgroundImage 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.EncryptionAlgorithm 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.EncryptionVersion 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelEncryption 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.eProtectedRangeAlgorithm 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelProtectedRange 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelProtectedRangeCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.PictureAlignment 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelHeaderFooterText 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelHeaderFooter 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.CompressionLevel 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelPackage 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelRange 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.RowInternal 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelRow 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelStyles 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelProtection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.eDataTypes 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.CalculationExtension 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.eErrorType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelErrorValue 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.RangeCollection 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelWorkbookView 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelWorksheetView 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.OfficeProperties 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelCalcMode 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelWorkbook 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.eWorkSheetHidden 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.CellFlags 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelWorksheets 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.XmlHelper 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.XmlHelperInstance 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.XmlHelperFactory 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelComment 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelCommentCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelSheetProtection 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelNamedRange 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelNamedRangeCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.eOrientation 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ePaperSize 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ePageOrder 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelPrinterSettings 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelRangeBase 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.IRangeID 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.TableStyles 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.ExcelTable 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.ExcelTableCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.RowFunctions 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.ExcelTableColumn 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTableFieldGroup 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTableFieldDateGroup 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTableFieldNumericGroup 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTableFieldItem 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTablePageFieldSettings 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTableDataField 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTableFieldCollectionBase`1 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTableFieldCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTableRowColumnFieldCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTableDataFieldCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.eSourceType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotCacheDefinition 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ePivotFieldAxis 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.DataFieldFunctions 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.eShowDataAs 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.eSubTotalFunctions 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.eDateGroupBy 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.eSortType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTableField 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTableCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotTable 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelGradientFill 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.IStyle 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.eStyleClass 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.eStyleProperty 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.StyleChangeEventArgs 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelParagraph 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelParagraphCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.Border 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelBorderItem 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelColor 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelFill 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelRichText 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelRichTextCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.IExcelCell 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelStyle 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelFont 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelNumberFormat 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelBorderStyle 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelHorizontalAlignment 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelVerticalAlignment 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelVerticalAlignmentFont 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelUnderLineType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelFillStyle 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelFillGradientType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelReadingOrder 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.StyleBase 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.eUnderLineType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.eStrikeType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelTextFont 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.XmlAccess.ExcelGradientFillXml 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.XmlAccess.ExcelBorderXml 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.XmlAccess.ExcelBorderItemXml 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.XmlAccess.ExcelXfs 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.XmlAccess.ExcelNamedStyleXml 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.XmlAccess.ExcelColorXml 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.XmlAccess.ExcelFillXml 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.XmlAccess.ExcelFontXml 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.XmlAccess.ExcelNumberFormatXml 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.XmlAccess.StyleXmlHelper 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.Dxf.DxfStyleBase`1 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.Dxf.ExcelDxfBorderBase 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.Dxf.ExcelDxfBorderItem 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.Dxf.ExcelDxfStyleConditionalFormatting 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.eModuleType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ModuleNameChange 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ExcelVBAModule 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.eAttributeDataType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ExcelVbaModuleAttribute 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ExcelVbaModuleCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ExcelVbaReferenceCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ExcelVbaProject 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ExcelVbaProtection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ExcelVbaSignature 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.ConvertUtil 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.UriHelper 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.AddressUtility 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.Argument`1 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.ArgumentExtensions 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.CompoundDocument 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.Require 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.SqRefUtility 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.TargetMode 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.ZipPackage 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.ZipPackagePart 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.LogicalConjunction 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.WhichTime 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.ComparisonOperator 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.SelectionCriterion 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.SizeCriterion 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.TimeCriterion 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.NameCriterion 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.TypeCriterion 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.AttributesCriterion 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.CompoundCriterion 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.FileSelector 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.EnumUtil 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.BlockState 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.DeflateFlavor 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.DeflateManager 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.DeflateStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.GZipStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.InflateBlocks 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.InternalInflateConstants 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.InflateCodes 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.InflateManager 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.InfTree 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.WorkItem 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.ParallelDeflateOutputStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.Tree 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.FlushType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.CompressionLevel 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.CompressionStrategy 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.CompressionMode 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.SharedUtils 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.InternalConstants 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.StaticTree 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.Adler 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.ZlibStreamFlavor 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.ZlibBaseStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.ZlibCodec 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.ZlibConstants 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.ZlibStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Crc.CRC32 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Crc.CrcCalculatorStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ComHelper 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.EncryptionAlgorithm 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.WriteDelegate 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.OpenDelegate 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.CloseDelegate 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.SetCompressionCallback 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipProgressEventType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipProgressEventArgs 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ReadProgressEventArgs 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.AddProgressEventArgs 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.SaveProgressEventArgs 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ExtractProgressEventArgs 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipErrorEventArgs 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ExtractExistingFileAction 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.OffsetStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.SharedUtilities 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.CountingStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipConstants 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipCrypto 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.CryptoMode 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipCipherStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipEntry 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipEntryTimestamp 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.CompressionMethod 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipEntrySource 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipErrorAction 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipFile 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.Zip64Option 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipOption 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.AddOrUpdateAction 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ReadOptions 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipOutput 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.SelfExtractorFlavor 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.SelfExtractorSaveOptions 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipOutputStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipContainer 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipSegmentedStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.DependencyChainFactory 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.DependencyChain 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.FormulaCell 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.FormulaParserManager 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.NameValueProvider 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ParsingConfiguration 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ParsingContext 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Utilities.ExtensionMethods 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Utilities.RegexConstants 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Utilities.Require 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Logging.LoggerFactory 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Logging.TextFileLogger 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.LexicalAnalysis.TokenType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.LexicalAnalysis.TokenSeparatorHandlers.TokenSeparatorHandler 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExpressionGraph.DataType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExpressionGraph.ConstantExpressions 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Exceptions.ExcelErrorCodes 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.ExcelCellState 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Operators.Operator 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Operators.Operators 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.EmptyCompileResultValidator 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.CellStateHelper 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.FunctionRepository 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.FunctionNameProvider 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup.LookupDirection 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup.LookupNavigatorFactory 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.MathHelper 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.VarMethods 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExcelUtilities.ExcelAddressInfo 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExcelUtilities.ExcelAddressUtil 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExcelUtilities.ExcelReferenceType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.EncryptedPackageHandler 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.Flags 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.AlgorithmID 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.AlgorithmHashID 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.ProviderType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.EncryptionHeader 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.EncryptionInfo 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.eCipherAlgorithm 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.eChainingMode 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.eHashAlogorithm 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.EncryptionInfoAgile 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.EncryptionInfoBinary 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.EncryptionVerifier 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.eTextAnchoringType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.eTextVerticalType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.eEditAs 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.ExcelDrawing 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.ExcelDrawingLineEnd 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.ExcelPicture 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.ExcelDrawings 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.ExcelShape 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.eLineCap 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.eLineStyle 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.ExcelDrawingBorder 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.ExcelDrawingFill 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.ExcelView3D 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.ExcelVmlDrawingPictureCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.ExcelVmlDrawingCommentCollection 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.ExcelVmlDrawingPicture 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.eTextAlignHorizontalVml 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.eTextAlignVerticalVml 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.eLineStyleVml 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.ExcelVmlDrawingBase 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.ExcelVmlDrawingComment 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.ExcelVmlDrawingPosition 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.ExcelVmlDrawingBaseCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelBarChartSerie 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelSurfaceChartSerie 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelSurfaceChart 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelRadarChart 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelBubbleChartSerie 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelLineChartSerie 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eChartType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eDirection 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eGrouping 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eShape 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eScatterStyle 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eRadarStyle 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ePieType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eLabelPosition 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eTickLabelPosition 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eMarkerStyle 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eChartStyle 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eTrendLine 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eDisplayBlanksAs 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eSizeRepresents 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChart 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartTrendlineCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartTrendline 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelBubbleChart 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartSurface 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelRadarChartSerie 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelLineChart 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eLegendPosition 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartLegend 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartPlotArea 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartSerieDataLabel 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelScatterChartSerie 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartTitle 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelOfPieChart 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelPieChartSerie 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelBarChart 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eAxisPosition 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eYAxisPosition 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eXAxisPosition 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eAxisOrientation 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eCrossBetween 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eCrosses 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eAxisTickMark 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eBuildInUnits 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartAxis 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartDataLabel 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartSerie 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelBubbleChartSeries 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartSeries 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelDoughnutChart 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelPieChart 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelScatterChart 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationAny 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationCustom 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationDateTime 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationFactory 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationTime 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationWithFormula`1 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationWithFormula2`1 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationOperator 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationWarningStyle 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationDecimal 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationList 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationInt 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.RangeDataValidation 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidation 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.eDataValidationType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.DataValidationSchemaNames 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationType 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.FormulaState 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormula 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaCustom 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaDateTime 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaList 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaTime 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaValue`1 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaDecimal 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaInt 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingIconDataBarValue 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingDataBar 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingFiveIconSet 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingFourIconSet 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingAboveStdDev 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingAboveOrEqualAverage 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingAverageGroup 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingAboveAverage 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingCollection 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingOperatorType 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingRuleFactory 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingConstants 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingTimePeriodType 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingColorScaleValue 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelConditionalFormattingRuleType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelConditionalFormattingValueObjectType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelConditionalFormattingValueObjectPosition 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelConditionalFormattingValueObjectNodeType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelConditionalFormattingOperatorType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelConditionalFormattingTimePeriodType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelconditionalFormatting3IconsSetType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelconditionalFormatting4IconsSetType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelconditionalFormatting5IconsSetType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelconditionalFormattingIconsSetType 生成存根: 类型是一个值类型。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingValueObjectType 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingBeginsWith 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingBelowAverage 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingBelowOrEqualAverage 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingBelowStdDev 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingBetween 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingBottom 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingBottomPercent 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingContainsBlanks 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingContainsErrors 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingContainsText 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingDuplicateValues 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingEndsWith 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingEqual 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingExpression 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingGreaterThan 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingGreaterThanOrEqual 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingLast7Days 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingLastMonth 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingLastWeek 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingLessThan 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingLessThanOrEqual 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingNextMonth 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingNextWeek 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingNotBetween 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingNotContainsBlanks 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingNotContainsErrors 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingNotContainsText 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingNotEqual 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingRule 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingRuleType 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingThisMonth 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingThisWeek 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingThreeColorScale 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingThreeIconSet 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingIconSetBase`1 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingTimePeriodGroup 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingToday 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingTomorrow 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingTop 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingTopPercent 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingTwoColorScale 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingHelper 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.RangeConditionalFormatting 生成存根: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingUniqueValues 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingYesterday 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 <PrivateImplementationDetails> 生成存根: 类型已密封。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 IndexBase 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 IndexItem 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 ColumnIndex 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 PageIndex 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 CellStore`1 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 CellsStoreEnumerator`1 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 FlagCellStore 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 eEndStyle 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 eEndSize 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 eShapeStyle 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 eTextAlignment 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 eFillStyle 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 Ionic.Zip.ZipInputStream 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.EncryptionAlgorithm 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.EncryptionVersion 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.eProtectedRangeAlgorithm 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.PictureAlignment 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.CompressionLevel 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelPackage+ImageInfo 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.RowInternal 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelStyles+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.eDataTypes 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.eErrorType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.RangeCollection 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelCalcMode 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelWorkbook+SharedStringItem 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.eWorkSheetHidden 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.CellFlags 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelWorksheet+<>c__DisplayClass99_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelWorksheet+Formulas 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelWorksheets+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.XmlHelper+ChangedEventHandler 生成填充码: 类型是一个委托。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.XmlHelper+eNodeInsertOrder 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.XmlHelperInstance 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.XmlHelperFactory 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelAddressBase+AddressType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelAddressBase+eAddressCollition 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelAddressBase+eShiftType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelCellBase+dlgTransl 生成填充码: 类型是一个委托。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.eOrientation 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ePaperSize 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ePageOrder 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelRangeBase+CopiedCell 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelRangeBase+_changeProp 生成填充码: 类型是一个委托。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ExcelRangeBase+_setValue 生成填充码: 类型是一个委托。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.IRangeID 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.TableStyles 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.RowFunctions 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.eSourceType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ExcelPivotCacheDefinition+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.ePivotFieldAxis 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.DataFieldFunctions 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.eShowDataAs 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.eSubTotalFunctions 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.eDateGroupBy 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Table.PivotTable.eSortType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.IStyle 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.eStyleClass 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.eStyleProperty 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.StyleChangeEventArgs 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelRichText+CallbackDelegate 生成填充码: 类型是一个委托。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.IExcelCell 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelBorderStyle 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelHorizontalAlignment 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelVerticalAlignment 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelVerticalAlignmentFont 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelUnderLineType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelFillStyle 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelFillGradientType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.ExcelReadingOrder 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.eUnderLineType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.eStrikeType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.XmlAccess.ExcelNumberFormatXml+ExcelFormatTranslator 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Style.XmlAccess.ExcelNumberFormatXml+eFormatType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.eModuleType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ModuleNameChange 生成填充码: 类型是一个委托。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ExcelVBAModule+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.eAttributeDataType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ExcelVBACollectionBase`1+<>c__DisplayClass4_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ExcelVBACollectionBase`1+<>c__DisplayClass9_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ExcelVbaProject+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.VBA.ExcelVbaProject+eSyskind 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.ConvertUtil 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.UriHelper 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.Argument`1 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.CompoundDocument 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Utils.IArgument`1 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.TargetMode 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.ZipPackage+<>c__DisplayClass11_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.ZipPackage+<>c__DisplayClass9_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.ZipPackage+ContentType 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.ZipPackagePart 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.LogicalConjunction 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.WhichTime 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.ComparisonOperator 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.SelectionCriterion 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.SizeCriterion 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.TimeCriterion 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.NameCriterion 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.TypeCriterion 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.AttributesCriterion 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.CompoundCriterion 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.FileSelector 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.EnumUtil 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.BlockState 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.DeflateFlavor 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.DeflateManager 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.InflateBlocks 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.InternalInflateConstants 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.InflateCodes 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.InflateManager 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.InfTree 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.WorkItem 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.ParallelDeflateOutputStream+TraceBits 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.Tree 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.FlushType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.CompressionLevel 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.CompressionStrategy 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.CompressionMode 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.SharedUtils 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.InternalConstants 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.StaticTree 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.ZlibStreamFlavor 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zlib.ZlibBaseStream 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Crc.CRC32 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Crc.CrcCalculatorStream 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ComHelper 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.EncryptionAlgorithm 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.WriteDelegate 生成填充码: 类型是一个委托。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.OpenDelegate 生成填充码: 类型是一个委托。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.CloseDelegate 生成填充码: 类型是一个委托。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.SetCompressionCallback 生成填充码: 类型是一个委托。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipProgressEventType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipProgressEventArgs 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ReadProgressEventArgs 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.AddProgressEventArgs 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.SaveProgressEventArgs 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ExtractProgressEventArgs 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipErrorEventArgs 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ExtractExistingFileAction 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.OffsetStream 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.SharedUtilities 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.CountingStream 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipConstants 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipCrypto 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.CryptoMode 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipCipherStream 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipEntry 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipEntryTimestamp 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.CompressionMethod 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipEntrySource 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipErrorAction 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipFile 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.Zip64Option 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipOption 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.AddOrUpdateAction 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ReadOptions 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipOutput 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.SelfExtractorFlavor 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.SelfExtractorSaveOptions 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipOutputStream 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipContainer 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Packaging.Ionic.Zip.ZipSegmentedStream 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.DependencyChainFactory 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.DependencyChain 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.FormulaCell 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExcelDataProvider+ICellInfo 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExcelDataProvider+INameInfo 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExcelDataProvider+IRangeInfo 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.FormulaParser+<>c__DisplayClass3_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.FormulaParserManager+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.FormulaParserManager+<>c__DisplayClass2_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.FormulaParserManager+<>c__DisplayClass3_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.FormulaParserManager+<>c__DisplayClass6_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.FormulaParserManager+<>c__DisplayClass7_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.INameValueProvider 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.IParsingLifetimeEventHandler 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Logging.IFormulaParserLogger 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Logging.TextFileLogger 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.LexicalAnalysis.ITokenIndexProvider 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.LexicalAnalysis.ILexer 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.LexicalAnalysis.ISourceCodeTokenizer 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.LexicalAnalysis.ISyntacticAnalyzer 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.LexicalAnalysis.ITokenFactory 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.LexicalAnalysis.ITokenSeparatorProvider 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.LexicalAnalysis.SyntacticAnalyzer+AnalyzingContext 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.LexicalAnalysis.TokenType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExpressionGraph.DataType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExpressionGraph.ExpressionCompiler+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExpressionGraph.ExpressionCompiler+<>c__DisplayClass9_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExpressionGraph.ConstantExpressions+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExpressionGraph.IExpressionCompiler 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExpressionGraph.IExpressionConverter 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExpressionGraph.IExpressionFactory 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExpressionGraph.IExpressionGraphBuilder 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExpressionGraph.CompileStrategy.ICompileStrategyFactory 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Exceptions.ExcelErrorCodes+<>c__DisplayClass10_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.ExcelCellState 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Operators.IOperator 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Operators.Operator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Operators.Operators 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.EmptyCompileResultValidator 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.CellStateHelper 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.DoubleEnumerableArgConverter+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.DoubleEnumerableArgConverter+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.ExcelFunction+<>c__DisplayClass16_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.ExcelFunction+<>c__DisplayClass17_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.HiddenValuesHandlingFunction+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.IFunctionModule 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.IFunctionNameProvider 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.ObjectEnumerableArgConverter+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Text.CharFunction+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup.Address+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup.Address+<>c__DisplayClass0_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup.Choose+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup.Choose+<>c__DisplayClass0_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup.HLookup+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup.LookupArguments+LookupArgumentDataType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup.LookupDirection 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup.Match+MatchType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup.Offset+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.AverageIf+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.AverageIfs+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.AverageIfs+<>c__DisplayClass0_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.Count+ItemContext 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.CountIfs+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.CountIfs+<>c__DisplayClass0_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.Fact+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.Large+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.Large+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.Median+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.Product+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.Quotient+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.Small+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.Small+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.Stdev+<>c__DisplayClass1_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.StdevP+<>c__DisplayClass1_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.SumIf+<>c__DisplayClass3_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.SumIfs+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.SumIfs+<>c__DisplayClass0_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.Math.VarMethods 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.DateTime.Days360+Days360Calctype 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.DateTime.Time+<>c__DisplayClass1_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.Excel.Functions.DateTime.Yearfrac+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExcelUtilities.AddressTranslator+RangeCalculationBehaviour 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExcelUtilities.CellReferenceProvider+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExcelUtilities.ExcelReferenceType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExcelUtilities.FormulaDependency+<>c__DisplayClass11_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.FormulaParsing.ExcelUtilities.FormulaDependency+<>c__DisplayClass12_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.EncryptedPackageHandler 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.Flags 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.AlgorithmID 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.AlgorithmHashID 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.ProviderType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.EncryptionHeader 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.EncryptionInfo 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.eCipherAlgorithm 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.eChainingMode 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.eHashAlogorithm 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.EncryptionInfoAgile 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.EncryptionInfoBinary 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Encryption.EncryptionVerifier 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.eTextAnchoringType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.eTextVerticalType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.eEditAs 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.ExcelDrawings+ImageCompare 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.eLineCap 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.eLineStyle 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.ExcelVmlDrawingCommentCollection 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.eTextAlignHorizontalVml 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.eTextAlignVerticalVml 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Vml.eLineStyleVml 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eChartType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eDirection 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eGrouping 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eShape 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eScatterStyle 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eRadarStyle 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ePieType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eLabelPosition 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eTickLabelPosition 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eMarkerStyle 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eChartStyle 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eTrendLine 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eDisplayBlanksAs 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eSizeRepresents 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eLegendPosition 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelScatterChartSerie+<>c__DisplayClass34_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eAxisPosition 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eYAxisPosition 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eXAxisPosition 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eAxisOrientation 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eCrossBetween 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eCrosses 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eAxisTickMark 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.eBuildInUnits 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.Drawing.Chart.ExcelChartAxis+eAxisType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationFactory 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationOperator 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationWarningStyle 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.IRangeDataValidation 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.RangeDataValidation 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 正在跳过 method System.Void OfficeOpenXml.DataValidation.ExcelDataValidation.SetValue(System.Nullable`1<!!0> val, System.String path)，method System.Void OfficeOpenXml.DataValidation.ExcelDataValidation.SetValue(System.Nullable`1<!!0> val, System.String path) unstubbable: 不受支持的约束类型
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 正在跳过 method System.Void OfficeOpenXml.DataValidation.ExcelDataValidation.SetValue(System.Nullable`1<!!0> val, System.String path)，method System.Void OfficeOpenXml.DataValidation.ExcelDataValidation.SetValue(System.Nullable`1<!!0> val, System.String path) unstubbable: 不受支持的约束类型
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.ExcelDataValidationCollection+<>c__DisplayClass26_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.eDataValidationType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.DataValidationSchemaNames 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.FormulaState 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormula 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaCustom 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaDateTime 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaList 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaTime 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaValue`1 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaDecimal 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.ExcelDataValidationFormulaInt 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.Contracts.IExcelDataValidationFormula 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.Contracts.IExcelDataValidationFormulaDateTime 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.Contracts.IExcelDataValidationFormulaTime 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.Contracts.IExcelDataValidationFormulaList 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.Contracts.IExcelDataValidationFormulaWithValue`1 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.Contracts.IExcelDataValidationFormulaDecimal 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Formulas.Contracts.IExcelDataValidationFormulaInt 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Contracts.IExcelDataValidation 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Contracts.IExcelDataValidationAny 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Contracts.IExcelDataValidationCustom 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Contracts.IExcelDataValidationDateTime 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Contracts.IExcelDataValidationDecimal 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Contracts.IExcelDataValidationInt 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Contracts.IExcelDataValidationList 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Contracts.IExcelDataValidationTime 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Contracts.IExcelDataValidationWithFormula`1 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Contracts.IExcelDataValidationWithFormula2`1 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.DataValidation.Contracts.IExcelDataValidationWithOperator 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingCollection+<>c__DisplayClass18_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingOperatorType 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingRuleFactory 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingConstants 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingTimePeriodType 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelConditionalFormattingRuleType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelConditionalFormattingValueObjectType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelConditionalFormattingValueObjectPosition 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelConditionalFormattingValueObjectNodeType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelConditionalFormattingOperatorType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelConditionalFormattingTimePeriodType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelconditionalFormatting3IconsSetType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelconditionalFormatting4IconsSetType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelconditionalFormatting5IconsSetType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.eExcelconditionalFormattingIconsSetType 生成填充码: 类型是一个枚举。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingValueObjectType 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingRuleType 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.ExcelConditionalFormattingHelper 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.IRangeConditionalFormatting 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.RangeConditionalFormatting 生成填充码: 类型对 exported or assembly(EPPlus.Fakes) 不可见。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingAverageGroup 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingBeginsWith 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingBetween 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingColorScaleGroup 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingContainsBlanks 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingContainsErrors 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingContainsText 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingDataBarGroup 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingDuplicateValues 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingEndsWith 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingEqual 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingExpression 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingGreaterThan 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingGreaterThanOrEqual 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingThreeIconSet`1 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingFourIconSet`1 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingFiveIconSet 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingIconSetGroup`1 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingThreeColorScale 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingLessThan 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingLessThanOrEqual 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingNotBetween 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingNotContainsBlanks 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingNotContainsErrors 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingNotContainsText 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingNotEqual 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingStdDevGroup 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingTimePeriodGroup 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingTopBottomGroup 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingTwoColorScale 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingUniqueValues 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingWithFormula 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingWithFormula2 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingWithRank 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingWithReverse 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingWithShowValue 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingWithStdDev 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingWithText 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 OfficeOpenXml.ConditionalFormatting.Contracts.IExcelConditionalFormattingRule 生成填充码: 类型是一个接口。
+D:\Projects\闸机软件\标准版\标准版(HPTGate_S_V2.7.3)(人员信息通过身份阅读器录入)\hpt.gate.fujian_Wuzong\Fakes\EPPlus.fakes : warning : 无法为 <PrivateImplementationDetails> 生成填充码: 类型不受支持，因为存在内部限制。

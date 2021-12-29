@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B624DF0-1D8F-4784-90D5-ABCA96D405E9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>hpt.gate.DataAccess</RootNamespace>
+    <AssemblyName>hpt.gate.DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entity\Area.cs" />
+    <Compile Include="Entity\AreaInfo.cs" />
+    <Compile Include="Entity\AttdDetail.cs" />
+    <Compile Include="Entity\AttdRecord.cs" />
+    <Compile Include="Entity\AttendData.cs" />
+    <Compile Include="Entity\AttendLeave.cs" />
+    <Compile Include="Entity\AttendRule.cs" />
+    <Compile Include="Entity\AttendCycle.cs" />
+    <Compile Include="Entity\AttendDetail.cs" />
+    <Compile Include="Entity\AttendResult.cs" />
+    <Compile Include="Entity\AttdRule.cs" />
+    <Compile Include="Entity\AttendShift.cs" />
+    <Compile Include="Entity\AttendShiftOfEmp.cs" />
+    <Compile Include="Entity\AttendShiftOfMonth.cs" />
+    <Compile Include="Entity\AttendShiftOfWeek.cs" />
+    <Compile Include="Entity\AttendSummaryOfPersonal.cs" />
+    <Compile Include="Entity\Barcode.cs" />
+    <Compile Include="Entity\CameraInfo.cs" />
+    <Compile Include="Entity\CameraOfDevice.cs" />
+    <Compile Include="Entity\CardInfo.cs" />
+    <Compile Include="Entity\CardPara.cs" />
+    <Compile Include="Entity\CardUpdate.cs" />
+    <Compile Include="Entity\CellWidth.cs" />
+    <Compile Include="Entity\DataOfConst.cs" />
+    <Compile Include="Entity\DataSynTask.cs" />
+    <Compile Include="Entity\DBDevice.cs" />
+    <Compile Include="Entity\DeptInfo.cs" />
+    <Compile Include="Entity\DeptOfOper.cs" />
+    <Compile Include="Entity\DeviceInfo.cs" />
+    <Compile Include="Entity\DevicePlace.cs" />
+    <Compile Include="Entity\DisplayRecord.cs" />
+    <Compile Include="Entity\DynPara.cs" />
+    <Compile Include="Entity\EmpInfo.cs" />
+    <Compile Include="Entity\FaceDataTask.cs" />
+    <Compile Include="Entity\FaceDevice.cs" />
+    <Compile Include="Entity\FaceToEmps.cs" />
+    <Compile Include="Entity\FingerPrint.cs" />
+    <Compile Include="Entity\FingerPrintAndFaceCommand.cs" />
+    <Compile Include="Entity\FingerPrintOfDevice.cs" />
+    <Compile Include="Entity\FingerPrintTask.cs" />
+    <Compile Include="Entity\HTCard.cs" />
+    <Compile Include="Entity\HTRecord.cs" />
+    <Compile Include="Entity\HTTimegroup.cs" />
+    <Compile Include="Entity\HTVacation.cs" />
+    <Compile Include="Entity\ImageOfRecord.cs" />
+    <Compile Include="Entity\LcdRecord.cs" />
+    <Compile Include="Entity\LeaveType.cs" />
+    <Compile Include="Entity\LedController.cs" />
+    <Compile Include="Entity\LedDynPara.cs" />
+    <Compile Include="Entity\License.cs" />
+    <Compile Include="Entity\MenuOfOper.cs" />
+    <Compile Include="Entity\Menus.cs" />
+    <Compile Include="Entity\OperInfo.cs" />
+    <Compile Include="Entity\OperLog.cs" />
+    <Compile Include="Entity\Photo.cs" />
+    <Compile Include="Entity\PhotoOfEmp.cs" />
+    <Compile Include="Entity\PhotoTask.cs" />
+    <Compile Include="Entity\Record.cs" />
+    <Compile Include="Entity\Rights.cs" />
+    <Compile Include="Entity\SystemConfig.cs" />
+    <Compile Include="Entity\TaskResult.cs" />
+    <Compile Include="Entity\TimeGroup.cs" />
+    <Compile Include="Entity\DategroupOfVacation.cs" />
+    <Compile Include="Entity\TimegroupOfDoor.cs" />
+    <Compile Include="Entity\TimeGroupOfShift.cs" />
+    <Compile Include="Entity\TimeOfGroup.cs" />
+    <Compile Include="Entity\Vacation.cs" />
+    <Compile Include="Entity\Voice.cs" />
+    <Compile Include="IService\ILicenseService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Entity\DevRightOfEmp.cs" />
+    <Compile Include="Service\AttdService.cs" />
+    <Compile Include="Service\AttendDataService.cs" />
+    <Compile Include="Service\AttendDetailService.cs" />
+    <Compile Include="Service\AttendLeaveService.cs" />
+    <Compile Include="Service\AttendRuleService.cs" />
+    <Compile Include="Service\AttendDBService.cs" />
+    <Compile Include="Service\AttendService.cs" />
+    <Compile Include="Service\AttendShiftOfEmpService.cs" />
+    <Compile Include="Service\AttendShiftOfMonthService.cs" />
+    <Compile Include="Service\AttendShiftOfWeekService.cs" />
+    <Compile Include="Service\AttendShiftService.cs" />
+    <Compile Include="Service\AttendSummaryOfPersonalService.cs" />
+    <Compile Include="Service\BarcodeService.cs" />
+    <Compile Include="Service\CameraInfoService.cs" />
+    <Compile Include="Service\CameraOfDeviceService.cs" />
+    <Compile Include="Service\CameraService.cs" />
+    <Compile Include="Service\CardParaService.cs" />
+    <Compile Include="Service\CardUpdateService.cs" />
+    <Compile Include="Service\CollectService.cs" />
+    <Compile Include="Service\DategroupOfVacationService.cs" />
+    <Compile Include="Service\DeptOfOperService.cs" />
+    <Compile Include="Service\FaceDataTaskService.cs" />
+    <Compile Include="Service\FaceDeviceService.cs" />
+    <Compile Include="Service\FingerPrintTaskService.cs" />
+    <Compile Include="Service\HTCardService.cs" />
+    <Compile Include="Service\HTRecordService.cs" />
+    <Compile Include="Service\HTTimegroupService.cs" />
+    <Compile Include="Service\HTVacationService.cs" />
+    <Compile Include="Service\ImageOfRecordService.cs" />
+    <Compile Include="Service\LeaveTypeService.cs" />
+    <Compile Include="Service\LedDynParaService.cs" />
+    <Compile Include="Service\LicenseService.cs" />
+    <Compile Include="Service\MenuOfOperService.cs" />
+    <Compile Include="Service\OperLogService.cs" />
+    <Compile Include="Service\RecordService.cs" />
+    <Compile Include="Service\SystemConfigService.cs" />
+    <Compile Include="Service\SystemService.cs" />
+    <Compile Include="Service\DeptInfoService.cs" />
+    <Compile Include="Service\DeviceInfoService.cs" />
+    <Compile Include="Service\DevicePlaceService.cs" />
+    <Compile Include="Service\DevRightOfEmpService.cs" />
+    <Compile Include="Service\EmpInfoService.cs" />
+    <Compile Include="Service\FingerPrintService.cs" />
+    <Compile Include="Service\LcdService.cs" />
+    <Compile Include="Service\LedDbService.cs" />
+    <Compile Include="Service\MenusService.cs" />
+    <Compile Include="Service\OperInfoService.cs" />
+    <Compile Include="Service\OracleService.cs" />
+    <Compile Include="Service\SQLiteService.cs" />
+    <Compile Include="Entity\Shift.cs" />
+    <Compile Include="Entity\TicketType.cs" />
+    <Compile Include="Entity\Versions.cs" />
+    <Compile Include="Entity\WriteConfig.cs" />
+    <Compile Include="Entity\ZYTDataUpload.cs" />
+    <Compile Include="Entity\ZYTImageUpload.cs" />
+    <Compile Include="Service\TaskResultService.cs" />
+    <Compile Include="Service\TicketTypeService.cs" />
+    <Compile Include="Service\TimegroupOfDoorService.cs" />
+    <Compile Include="Service\TimeGroupOfShiftService.cs" />
+    <Compile Include="Service\TimeOfGroupService.cs" />
+    <Compile Include="Service\VacationService.cs" />
+    <Compile Include="Service\VoiceService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HPT.Gate.DBUtils\HPT.Gate.Utils.csproj">
+      <Project>{3342E970-4580-4616-91B6-2ED303867D8A}</Project>
+      <Name>HPT.Gate.Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

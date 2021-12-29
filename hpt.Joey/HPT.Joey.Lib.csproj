@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{15416920-C4DA-4DB0-A473-2F07C7DD4B85}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HPT.Joey.Lib</RootNamespace>
+    <AssemblyName>HPT.Joey.Lib</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSharp.Winform.UI.Loading, Version=1.0.0.2, Culture=neutral, PublicKeyToken=872ff9e93c410e95, processorArchitecture=MSIL">
+      <HintPath>..\packages\CSharp.Winform.UI.Loading.1.0.0.2\lib\net20\CSharp.Winform.UI.Loading.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.0.0.1, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\dll\DevComponents.DotNetBar2\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpZipLib.0.86.0\lib\20\ICSharpCode.SharpZipLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.0\lib\net40-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NPOI.OOXML, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.OOXML.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.OpenXml4Net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.OpenXmlFormats.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RingProgressBar, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RingProgressBar.2.0.0\lib\RingProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net.Http">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Communication\SerialPort\SerialPortServer.cs" />
+    <Compile Include="Communication\SocketRsDataEventArgs.cs" />
+    <Compile Include="Communication\Tcp\TcpSocketClient.cs" />
+    <Compile Include="Communication\Tcp\TcpSocketServer.cs" />
+    <Compile Include="Communication\Tcp\TcpSocketState.cs" />
+    <Compile Include="Communication\Udp\ArrayHelper.cs" />
+    <Compile Include="Communication\Udp\UdpSocketClient.cs" />
+    <Compile Include="Controls\BackgroundWorkerEventArgs.cs" />
+    <Compile Include="Controls\IPAddressTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DataGridViewCheckBoxHeaderCell.cs" />
+    <Compile Include="Controls\JWaitingHelper.cs" />
+    <Compile Include="Controls\JWaiting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\JWaiting.designer.cs">
+      <DependentUpon>JWaiting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\JProgressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\JProgressForm.Designer.cs">
+      <DependentUpon>JProgressForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\JProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\JProcess.designer.cs">
+      <DependentUpon>JProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\JProgressHelper.cs" />
+    <Compile Include="Controls\JLoading.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\JLoadingHelper.cs" />
+    <Compile Include="Controls\SkinForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\SkinForm.designer.cs">
+      <DependentUpon>SkinForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\JTop.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\JTop.Designer.cs">
+      <DependentUpon>JTop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\JWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\JWindow.designer.cs">
+      <DependentUpon>JWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\JForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\JForm.designer.cs">
+      <DependentUpon>JForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\GraphicsPathHelper.cs" />
+    <Compile Include="Controls\ImageDrawRect.cs" />
+    <Compile Include="Controls\JMessageButton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\JMessageButton.designer.cs">
+      <DependentUpon>JMessageButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\BaseForm.designer.cs">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LoadingControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\LoadingControl.designer.cs">
+      <DependentUpon>LoadingControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MessageBoxHelper.cs" />
+    <Compile Include="Controls\RoundStyle.cs" />
+    <Compile Include="Controls\WaitingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\WaitingForm.designer.cs">
+      <DependentUpon>WaitingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Win32.cs" />
+    <Compile Include="Controls\WindowColorStyle.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Log\FilesOperate.cs" />
+    <Compile Include="Log\LogHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Controls\ProgressBarCells.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\AppSettingsHelper.cs" />
+    <Compile Include="Utils\ArrayHelper.cs" />
+    <Compile Include="Utils\CameraHelper.cs" />
+    <Compile Include="Utils\CRC32Helper.cs" />
+    <Compile Include="Utils\EnumHelper.cs" />
+    <Compile Include="Utils\ExcelHelper.cs" />
+    <Compile Include="Utils\HPTEncrytion.cs" />
+    <Compile Include="Utils\ImageHelper.cs" />
+    <Compile Include="Utils\IPHelper.cs" />
+    <Compile Include="Utils\StringHelper.cs" />
+    <Compile Include="Utils\StringValidate.cs" />
+    <Compile Include="Utils\XmlHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\IPAddressTextBox.resx">
+      <DependentUpon>IPAddressTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\JLoading.resx">
+      <DependentUpon>JLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\JWaiting.resx">
+      <DependentUpon>JWaiting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\JProgressForm.resx">
+      <DependentUpon>JProgressForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\JProcess.resx">
+      <DependentUpon>JProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SkinForm.resx">
+      <DependentUpon>SkinForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\JTop.resx">
+      <DependentUpon>JTop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\JWindow.resx">
+      <DependentUpon>JWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\JForm.resx">
+      <DependentUpon>JForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\JMessageButton.resx">
+      <DependentUpon>JMessageButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\BaseForm.resx">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\LoadingControl.resx">
+      <DependentUpon>LoadingControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\WaitingForm.resx">
+      <DependentUpon>WaitingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\close_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\df.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main_light_bkg_top123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\max_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\max_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\max_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\min_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\min_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\min_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\store_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\store_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\store_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\57.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Log\log4net_config.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\loading2.gif" />
+    <None Include="Resources\loading1.gif" />
+    <None Include="Resources\bg_title1.jpg" />
+    <None Include="Resources\hpt_blue.ico" />
+    <None Include="Resources\wait.gif" />
+    <None Include="Resources\loading.gif" />
+    <None Include="Resources\bg_orange.jpg" />
+    <None Include="Resources\bg_black.jpg" />
+    <None Include="Resources\1529745161%281%29.jpg" />
+    <None Include="Resources\app.ico" />
+    <Content Include="Resources\bg_blue.png" />
+    <Content Include="Resources\bg_green.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

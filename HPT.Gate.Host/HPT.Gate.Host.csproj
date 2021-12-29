@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{06CEAEA5-17A6-454B-B8BE-F210968BCF08}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HPT.Gate.Host</RootNamespace>
+    <AssemblyName>通道闸数据同步服务5.6.2</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>hpt.gate.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Apache.NMS, Version=1.7.1.3894, Culture=neutral, PublicKeyToken=82756feee3957618, processorArchitecture=MSIL">
+      <HintPath>..\packages\Apache.NMS.1.7.1\lib\net40\Apache.NMS.dll</HintPath>
+    </Reference>
+    <Reference Include="Apache.NMS.ActiveMQ, Version=1.7.2.4108, Culture=neutral, PublicKeyToken=82756feee3957618, processorArchitecture=MSIL">
+      <HintPath>..\packages\Apache.NMS.ActiveMQ.1.7.2\lib\net40\Apache.NMS.ActiveMQ.dll</HintPath>
+    </Reference>
+    <Reference Include="AutoMapper, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.3.0.0\lib\net40\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="AutoMapper.Net4, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.3.0.0\lib\net40\AutoMapper.Net4.dll</HintPath>
+    </Reference>
+    <Reference Include="CSharp.Winform.UI.Loading, Version=1.0.0.2, Culture=neutral, PublicKeyToken=872ff9e93c410e95, processorArchitecture=MSIL">
+      <HintPath>..\packages\CSharp.Winform.UI.Loading.1.0.0.2\lib\net20\CSharp.Winform.UI.Loading.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=10.5.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\dll\DevComponents.DotNetBar2\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.0\lib\net40-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=106.6.10.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.106.6.10\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Reactive.Core, Version=2.1.30214.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rx-Core.2.1.30214.0\lib\Net45\System.Reactive.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Interfaces, Version=2.1.30214.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rx-Interfaces.2.1.30214.0\lib\Net45\System.Reactive.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\FrmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\FrmBase.Designer.cs">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\WinBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\WinBase.Designer.cs">
+      <DependentUpon>WinBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="camera\FrmCamBindingAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="camera\FrmCamBindingAdd.Designer.cs">
+      <DependentUpon>FrmCamBindingAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="camera\FrmCamBindingEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="camera\FrmCamBindingEdit.Designer.cs">
+      <DependentUpon>FrmCamBindingEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="camera\FrmCameraAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="camera\FrmCameraAdd.Designer.cs">
+      <DependentUpon>FrmCameraAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="camera\FrmCameraEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="camera\FrmCameraEdit.Designer.cs">
+      <DependentUpon>FrmCameraEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="db\DatabaseBak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="db\DatabaseBak.Designer.cs">
+      <DependentUpon>DatabaseBak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="db\FrmDBInstall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="db\FrmDBInstall.designer.cs">
+      <DependentUpon>FrmDBInstall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="db\FrmDbBackupAndReduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="db\FrmDbBackupAndReduction.Designer.cs">
+      <DependentUpon>FrmDbBackupAndReduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="db\FrmDBSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="db\FrmDBSettings.Designer.cs">
+      <DependentUpon>FrmDBSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="db\FrmDbUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="db\FrmDbUpdate.designer.cs">
+      <DependentUpon>FrmDbUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevPara\FrmRecordPara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FrmRecordPara.Designer.cs">
+      <DependentUpon>FrmRecordPara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevPara\FrmSoftKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FrmSoftKey.designer.cs">
+      <DependentUpon>FrmSoftKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevPara\FrmTimegroupOfVacationAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FrmTimegroupOfVacationAdd.Designer.cs">
+      <DependentUpon>FrmTimegroupOfVacationAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevPara\FrmTimegroupOfVacationEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FrmTimegroupOfVacationEdit.Designer.cs">
+      <DependentUpon>FrmTimegroupOfVacationEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevPara\FrmTimegroupOfWeekAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FrmTimegroupOfWeekAdd.Designer.cs">
+      <DependentUpon>FrmTimegroupOfWeekAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevPara\FrmTimegroupOfWeekEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FrmTimegroupOfWeekEdit.Designer.cs">
+      <DependentUpon>FrmTimegroupOfWeekEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevPara\FrmVacationAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FrmVacationAdd.Designer.cs">
+      <DependentUpon>FrmVacationAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevPara\FrmVacationEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FrmVacationEdit.Designer.cs">
+      <DependentUpon>FrmVacationEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="extenssion\ExceptionExtentions.cs" />
+    <Compile Include="face\AuthorProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="face\AuthorProgress.designer.cs">
+      <DependentUpon>AuthorProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="face\FrmAddData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="face\FrmAddData.Designer.cs">
+      <DependentUpon>FrmAddData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="face\FrmChooseEmpHasCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="face\FrmChooseEmpHasCard.designer.cs">
+      <DependentUpon>FrmChooseEmpHasCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="face\FrmFace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="face\FrmFace.Designer.cs">
+      <DependentUpon>FrmFace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="face\FrmFaceAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="face\FrmFaceAdd.Designer.cs">
+      <DependentUpon>FrmFaceAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="face\FrmFaceBindings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="face\FrmFaceBindings.Designer.cs">
+      <DependentUpon>FrmFaceBindings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="face\FrmFaceDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="face\FrmFaceDetail.Designer.cs">
+      <DependentUpon>FrmFaceDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="face\FrmFaceEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="face\FrmFaceEdit.Designer.cs">
+      <DependentUpon>FrmFaceEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="face\FrmNetPara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="face\FrmNetPara.Designer.cs">
+      <DependentUpon>FrmNetPara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDisabled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDisabled.Designer.cs">
+      <DependentUpon>FrmDisabled.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JMS\CardRequest.cs" />
+    <Compile Include="JMS\DoorHeartbeatRequest.cs" />
+    <Compile Include="JMS\DTResponse.cs" />
+    <Compile Include="JMS\DTAPI.cs" />
+    <Compile Include="JMS\AttendanceHeartbeatRequest.cs" />
+    <Compile Include="JMS\JMSCreater.cs" />
+    <Compile Include="JMS\JMSReceiver.cs" />
+    <Compile Include="JMS\RecordRequest.cs" />
+    <Compile Include="JMS\TimegroupRequest.cs" />
+    <Compile Include="JMS\VacationRequest.cs" />
+    <Compile Include="Lcd\FrmLcdSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lcd\FrmLcdSettings.Designer.cs">
+      <DependentUpon>FrmLcdSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lcd\FrmLcd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lcd\FrmLcd.designer.cs">
+      <DependentUpon>FrmLcd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lcd\FrmLcd_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lcd\FrmLcd_1.designer.cs">
+      <DependentUpon>FrmLcd_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Led\Frm\FrmLedAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Led\Frm\FrmLedAdd.designer.cs">
+      <DependentUpon>FrmLedAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Led\Frm\FrmLedEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Led\Frm\FrmLedEdit.designer.cs">
+      <DependentUpon>FrmLedEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LocalCache.cs" />
+    <Compile Include="Service\DataInsertArgs.cs" />
+    <Compile Include="Service\RealtimeService.cs" />
+    <Compile Include="camera\FrmCamera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="camera\FrmCamera.designer.cs">
+      <DependentUpon>FrmCamera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config\AppSettings.cs" />
+    <Compile Include="Service\DataService.cs" />
+    <Compile Include="Service\DBService.cs" />
+    <Compile Include="DevPara\FPhotoPickUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FPhotoPickUp.designer.cs">
+      <DependentUpon>FPhotoPickUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevPara\FrmBasePara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FrmBasePara.Designer.cs">
+      <DependentUpon>FrmBasePara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevPara\FrmTimePara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FrmTimePara.Designer.cs">
+      <DependentUpon>FrmTimePara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevPara\FrmUploadBGImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FrmUploadBGImage.Designer.cs">
+      <DependentUpon>FrmUploadBGImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevPara\FrmUploadPhotos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevPara\FrmUploadPhotos.Designer.cs">
+      <DependentUpon>FrmUploadPhotos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDevAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDevAdd.designer.cs">
+      <DependentUpon>FrmDevAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDevEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDevEdit.designer.cs">
+      <DependentUpon>FrmDevEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSettings.Designer.cs">
+      <DependentUpon>FrmSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Led\Frm\FDynamicArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Led\Frm\FDynamicArea.designer.cs">
+      <DependentUpon>FDynamicArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Led\Frm\FrmLedController.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Led\Frm\FrmLedController.designer.cs">
+      <DependentUpon>FrmLedController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Led\Frm\LedTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Led\Frm\LedTable.designer.cs">
+      <DependentUpon>LedTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Led\Frm\LedTxt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Led\Frm\LedTxt.designer.cs">
+      <DependentUpon>LedTxt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StartupEx.cs" />
+    <Compile Include="Util\ComboBoxHelper.cs" />
+    <Compile Include="Util\DataConverter.cs" />
+    <Compile Include="Util\FPMatch.cs" />
+    <Compile Include="Util\TreeHelper.cs" />
+    <EmbeddedResource Include="Base\FrmBase.resx">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base\WinBase.resx">
+      <DependentUpon>WinBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="camera\FrmCamBindingAdd.resx">
+      <DependentUpon>FrmCamBindingAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="camera\FrmCamBindingEdit.resx">
+      <DependentUpon>FrmCamBindingEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="camera\FrmCamera.resx">
+      <DependentUpon>FrmCamera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="camera\FrmCameraAdd.resx">
+      <DependentUpon>FrmCameraAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="camera\FrmCameraEdit.resx">
+      <DependentUpon>FrmCameraEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="db\DatabaseBak.resx">
+      <DependentUpon>DatabaseBak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="db\FrmDBInstall.resx">
+      <DependentUpon>FrmDBInstall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="db\FrmDbBackupAndReduction.resx">
+      <DependentUpon>FrmDbBackupAndReduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="db\FrmDBSettings.resx">
+      <DependentUpon>FrmDBSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="db\FrmDbUpdate.resx">
+      <DependentUpon>FrmDbUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FPhotoPickUp.resx">
+      <DependentUpon>FPhotoPickUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FrmBasePara.resx">
+      <DependentUpon>FrmBasePara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FrmRecordPara.resx">
+      <DependentUpon>FrmRecordPara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FrmSoftKey.resx">
+      <DependentUpon>FrmSoftKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FrmTimegroupOfVacationAdd.resx">
+      <DependentUpon>FrmTimegroupOfVacationAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FrmTimegroupOfVacationEdit.resx">
+      <DependentUpon>FrmTimegroupOfVacationEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FrmTimegroupOfWeekAdd.resx">
+      <DependentUpon>FrmTimegroupOfWeekAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FrmTimegroupOfWeekEdit.resx">
+      <DependentUpon>FrmTimegroupOfWeekEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FrmTimePara.resx">
+      <DependentUpon>FrmTimePara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FrmUploadBGImage.resx">
+      <DependentUpon>FrmUploadBGImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FrmUploadPhotos.resx">
+      <DependentUpon>FrmUploadPhotos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FrmVacationAdd.resx">
+      <DependentUpon>FrmVacationAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevPara\FrmVacationEdit.resx">
+      <DependentUpon>FrmVacationEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="face\AuthorProgress.resx">
+      <DependentUpon>AuthorProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="face\FrmAddData.resx">
+      <DependentUpon>FrmAddData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="face\FrmChooseEmpHasCard.resx">
+      <DependentUpon>FrmChooseEmpHasCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="face\FrmFace.resx">
+      <DependentUpon>FrmFace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="face\FrmFaceAdd.resx">
+      <DependentUpon>FrmFaceAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="face\FrmFaceBindings.resx">
+      <DependentUpon>FrmFaceBindings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="face\FrmFaceDetail.resx">
+      <DependentUpon>FrmFaceDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="face\FrmFaceEdit.resx">
+      <DependentUpon>FrmFaceEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="face\FrmNetPara.resx">
+      <DependentUpon>FrmNetPara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDevAdd.resx">
+      <DependentUpon>FrmDevAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDevEdit.resx">
+      <DependentUpon>FrmDevEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDisabled.resx">
+      <DependentUpon>FrmDisabled.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSettings.resx">
+      <DependentUpon>FrmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lcd\FrmLcdSettings.resx">
+      <DependentUpon>FrmLcdSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lcd\FrmLcd.resx">
+      <DependentUpon>FrmLcd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lcd\FrmLcd_1.resx">
+      <DependentUpon>FrmLcd_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Led\Frm\FDynamicArea.resx">
+      <DependentUpon>FDynamicArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Led\Frm\FrmLedAdd.resx">
+      <DependentUpon>FrmLedAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Led\Frm\FrmLedController.resx">
+      <DependentUpon>FrmLedController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Led\Frm\FrmLedEdit.resx">
+      <DependentUpon>FrmLedEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Led\Frm\LedTable.resx">
+      <DependentUpon>LedTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Led\Frm\LedTxt.resx">
+      <DependentUpon>LedTxt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="洞口教育设备对接接口文档_20190617%289%29%281%29.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\HPTGMS_5_6_Data.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\HPTGMS_5_6_Log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="hpt.gate.ico" />
+    <Content Include="hpt.ico" />
+    <Content Include="ICO\hpt.gate.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="lib\borlndmm.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="lib\LedDynamicArea.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="lib\TransNet.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Properties\hpt.ico" />
+    <None Include="Resources\57.gif" />
+    <None Include="Resources\1529745161%281%29.jpg" />
+    <None Include="Resources\app.ico" />
+    <None Include="Resources\bg_black.jpg" />
+    <None Include="Resources\bg_blue.png" />
+    <None Include="Resources\bg_green.jpg" />
+    <None Include="Resources\bg_orange.jpg" />
+    <None Include="Resources\close_hover.png" />
+    <None Include="Resources\close_normal.png" />
+    <None Include="Resources\close_press.png" />
+    <None Include="Resources\df.png" />
+    <None Include="Resources\error.png" />
+    <None Include="Resources\bg_top.jpg" />
+    <None Include="Resources\bt_add.png" />
+    <None Include="Resources\bt_delete.png" />
+    <None Include="Resources\bt_edit.png" />
+    <None Include="Resources\bt_lock.png" />
+    <None Include="Resources\bt_query.png" />
+    <None Include="Resources\btn_user.png" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\21.png" />
+    <None Include="Resources\29.png" />
+    <None Include="Resources\cam.jpg" />
+    <Content Include="Resources\hpt.ico" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\info1.png" />
+    <None Include="Resources\loading.gif" />
+    <None Include="Resources\main_light_bkg_top123.png" />
+    <None Include="Resources\max_hover.png" />
+    <None Include="Resources\max_normal.png" />
+    <None Include="Resources\max_press.png" />
+    <None Include="Resources\min_hover.png" />
+    <None Include="Resources\min_normal.png" />
+    <None Include="Resources\min_press.png" />
+    <None Include="Resources\question.png" />
+    <None Include="Resources\store_hover.png" />
+    <None Include="Resources\store_normal.png" />
+    <None Include="Resources\store_press.png" />
+    <None Include="Resources\picture.png" />
+    <None Include="Resources\timg_2.jpg" />
+    <Content Include="update\hpt.gate.update.V2.7.3_1.sql" />
+    <Content Include="update\camera_update.sql" />
+    <Content Include="update\led_update_v1.sql" />
+    <Content Include="update\update_3.0.sql" />
+    <Content Include="update\update.sql" />
+    <Content Include="update\update_main_v1.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HPT.Face\HPT.Face.csproj">
+      <Project>{0d366a7d-87b9-49f8-bd36-a702b4cf6616}</Project>
+      <Name>HPT.Face</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HPT.Gate.DataAccess\HPT.Gate.DataAccess.csproj">
+      <Project>{9b624df0-1d8f-4784-90d5-abca96d405e9}</Project>
+      <Name>HPT.Gate.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HPT.Gate.DBUtils\HPT.Gate.Utils.csproj">
+      <Project>{3342e970-4580-4616-91b6-2ed303867d8a}</Project>
+      <Name>HPT.Gate.Utils</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HPT.Gate.Device\HPT.Gate.Device.csproj">
+      <Project>{09c33414-082a-444d-916a-7dd64471e526}</Project>
+      <Name>HPT.Gate.Device</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HPT.Gate.ZKFP\HPT.Gate.ZKFP.csproj">
+      <Project>{badb9323-37a2-4639-a59e-762f4eedb47d}</Project>
+      <Name>HPT.Gate.ZKFP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\hpt.Joey\HPT.Joey.Lib.csproj">
+      <Project>{E6416322-D530-4823-BE96-01E1B0E5D7BF}</Project>
+      <Name>HPT.Joey.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HPT.Led\HPT.Led.csproj">
+      <Project>{CB250603-F91F-43F9-85BB-50A39C81E8C1}</Project>
+      <Name>HPT.Led</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HPT.NetCam\HPT.NetCam.csproj">
+      <Project>{5cbd0e16-5a95-4713-b3de-360751234a3f}</Project>
+      <Name>HPT.NetCam</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ErrorImage\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

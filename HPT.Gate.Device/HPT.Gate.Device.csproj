@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{09C33414-082A-444D-916A-7DD64471E526}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HPT.Gate.Device</RootNamespace>
+    <AssemblyName>HPT.Gate.Device</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\CardData.cs" />
+    <Compile Include="Data\Command.cs" />
+    <Compile Include="Data\CommType.cs" />
+    <Compile Include="Data\DataBMP.cs" />
+    <Compile Include="Data\DataLeave.cs" />
+    <Compile Include="Data\DataRealTime.cs" />
+    <Compile Include="Data\DataCard.cs" />
+    <Compile Include="Data\DataCardPass.cs" />
+    <Compile Include="Data\BasePara.cs" />
+    <Compile Include="Data\DataDoMain.cs" />
+    <Compile Include="Data\DataDuration.cs" />
+    <Compile Include="Data\DataMachineIds.cs" />
+    <Compile Include="Data\DataManager.cs" />
+    <Compile Include="Data\DataMonitor.cs" />
+    <Compile Include="Data\DataMonitorPacket.cs" />
+    <Compile Include="Data\DataNetPara.cs" />
+    <Compile Include="Data\DataRealtimeRespon.cs" />
+    <Compile Include="Data\DataServer.cs" />
+    <Compile Include="Data\DataSoftPara.cs" />
+    <Compile Include="Data\DataUpdate.cs" />
+    <Compile Include="Data\DataVoice.cs" />
+    <Compile Include="Data\DataRecord.cs" />
+    <Compile Include="Data\DataTimeGroupOfDoor.cs" />
+    <Compile Include="Data\DataTimeGroupOfVacation.cs" />
+    <Compile Include="Data\DataUpdatePacket.cs" />
+    <Compile Include="Data\DataVacation.cs" />
+    <Compile Include="Data\DateGroup.cs" />
+    <Compile Include="Data\GateCommand.cs" />
+    <Compile Include="Data\RecordEvent.cs" />
+    <Compile Include="Data\RecordPointer.cs" />
+    <Compile Include="Data\Result.cs" />
+    <Compile Include="Data\TimeGroup.cs" />
+    <Compile Include="Dev\AsyncSocketEventArgs.cs" />
+    <Compile Include="Dev\AsyncSocketState.cs" />
+    <Compile Include="Dev\CameraCaptureArgs.cs" />
+    <Compile Include="Dev\RealtimeArgs.cs" />
+    <Compile Include="Dev\CheckOnLeaveArgs.cs" />
+    <Compile Include="Dev\AsyncSocketTCPServer.cs" />
+    <Compile Include="Dev\PlayVoiceArgs.cs" />
+    <Compile Include="Dev\RealTimeDataArgs.cs" />
+    <Compile Include="Dev\SerialPortHelper.cs" />
+    <Compile Include="Dev\TcpSocketState.cs" />
+    <Compile Include="Dev\TcpServer.cs" />
+    <Compile Include="Dev\TcpSocketServer.cs" />
+    <Compile Include="Dev\UdpDevice.cs" />
+    <Compile Include="Dev\TcpDevice.cs" />
+    <Compile Include="Dev\DevSearcher.cs" />
+    <Compile Include="Dev\TcpSocketClient.cs" />
+    <Compile Include="Dev\UdpSocketClient.cs" />
+    <Compile Include="Dev\WirelessDevice.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HPT.Gate.DataAccess\HPT.Gate.DataAccess.csproj">
+      <Project>{9B624DF0-1D8F-4784-90D5-ABCA96D405E9}</Project>
+      <Name>HPT.Gate.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HPT.Gate.DBUtils\HPT.Gate.Utils.csproj">
+      <Project>{3342E970-4580-4616-91B6-2ED303867D8A}</Project>
+      <Name>HPT.Gate.Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

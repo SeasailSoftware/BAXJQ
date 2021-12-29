@@ -1,0 +1,1034 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A7A9FACC-9DA4-4DD6-A189-F922434DF55E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HPT.Gate.Client</RootNamespace>
+    <AssemblyName>通道闸智能门禁考勤管理系统5.6.2</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Projects\发布\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>通道闸智能管理系统V2.6</ProductName>
+    <PublisherName>HPT</PublisherName>
+    <SuiteName>HPT</SuiteName>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>2.6.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DocumentationFile>
+    </DocumentationFile>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>hpt.gate.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Controls, Version=2.2.5.0, Culture=neutral, PublicKeyToken=a8ac264d1dc6b9d9, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Controls.2.2.5\lib\AForge.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Imaging.2.2.5\lib\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math, Version=2.2.5.0, Culture=neutral, PublicKeyToken=abba2e25397ee8c9, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Math.2.2.5\lib\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.0.0.1, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\dll\DevComponents.DotNetBar2\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus, Version=4.5.3.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.4.5.3\lib\net40\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualStudio.DebuggerVisualizers, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.1.1.2225.0\lib\net20\OpenTK.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenTK.GLControl, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.GLControl.1.1.2225.0\lib\net20\OpenTK.GLControl.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.DataVisualization">
+      <HintPath>..\packages\Microsoft.Chart.Controls.4.7.2046\lib\net35\System.Web.DataVisualization.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.DataVisualization.Design">
+      <HintPath>..\packages\Microsoft.Chart.Controls.4.7.2046\lib\net35\System.Web.DataVisualization.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization">
+      <HintPath>..\packages\Microsoft.Chart.Controls.4.7.2046\lib\net35\System.Windows.Forms.DataVisualization.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization.Design">
+      <HintPath>..\packages\Microsoft.Chart.Controls.4.7.2046\lib\net35\System.Windows.Forms.DataVisualization.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="ZedGraph, Version=5.1.7.430, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZedGraph.5.1.7\lib\net35-Client\ZedGraph.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="zxing, Version=1.0.4727.18517, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.2.1.1\lib\net20\zxing.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about\HPTAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="about\HPTAbout.designer.cs">
+      <DependentUpon>HPTAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\AttendManager.cs" />
+    <Compile Include="Attend\FrmAddAttendData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmAddAttendData.Designer.cs">
+      <DependentUpon>FrmAddAttendData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmAttdAlyze.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmAttdAlyze.designer.cs">
+      <DependentUpon>FrmAttdAlyze.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmAttendData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmAttendData.Designer.cs">
+      <DependentUpon>FrmAttendData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmAttendReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmAttendReports.Designer.cs">
+      <DependentUpon>FrmAttendReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmAttendRule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmAttendRule.designer.cs">
+      <DependentUpon>FrmAttendRule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmEditAttendData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmEditAttendData.Designer.cs">
+      <DependentUpon>FrmEditAttendData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmLeave.Designer.cs">
+      <DependentUpon>FrmLeave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmLeaveAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmLeaveAdd.Designer.cs">
+      <DependentUpon>FrmLeaveAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmLeaveEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmLeaveEdit.Designer.cs">
+      <DependentUpon>FrmLeaveEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmLeaveFind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmLeaveFind.Designer.cs">
+      <DependentUpon>FrmLeaveFind.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmRepairCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmRepairCard.Designer.cs">
+      <DependentUpon>FrmRepairCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmShiftAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmShiftAdd.Designer.cs">
+      <DependentUpon>FrmShiftAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmShiftEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmShiftEdit.Designer.cs">
+      <DependentUpon>FrmShiftEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmShiftManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmShiftManager.Designer.cs">
+      <DependentUpon>FrmShiftManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmShifts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmShifts.Designer.cs">
+      <DependentUpon>FrmShifts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmShiftSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmShiftSchedule.designer.cs">
+      <DependentUpon>FrmShiftSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmTimegroupOfShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmTimegroupOfShift.Designer.cs">
+      <DependentUpon>FrmTimegroupOfShift.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmTimegroupOfShiftAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmTimegroupOfShiftAdd.Designer.cs">
+      <DependentUpon>FrmTimegroupOfShiftAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\FrmTimeGroupOfShiftEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\FrmTimeGroupOfShiftEdit.Designer.cs">
+      <DependentUpon>FrmTimeGroupOfShiftEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\RptAttdDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\RptAttdDetail.designer.cs">
+      <DependentUpon>RptAttdDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\RptAttdSummaryDept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\RptAttdSummaryDept.designer.cs">
+      <DependentUpon>RptAttdSummaryDept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\RptAttdSummaryPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\RptAttdSummaryPersonal.designer.cs">
+      <DependentUpon>RptAttdSummaryPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attend\RptOriginalRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attend\RptOriginalRecord.designer.cs">
+      <DependentUpon>RptOriginalRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\Authorize\AuthorProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\Authorize\AuthorProgress.designer.cs">
+      <DependentUpon>AuthorProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\Authorize\FEmpAuthorize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\Authorize\FEmpAuthorize.designer.cs">
+      <DependentUpon>FEmpAuthorize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\Authorize\FrmChooseEmpHasCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\Authorize\FrmChooseEmpHasCard.designer.cs">
+      <DependentUpon>FrmChooseEmpHasCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\Authorize\FrmRights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\Authorize\FrmRights.designer.cs">
+      <DependentUpon>FrmRights.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\Authorize\FrmDevAuthorize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\Authorize\FrmDevAuthorize.designer.cs">
+      <DependentUpon>FrmDevAuthorize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\Authorize\FrmFindEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\Authorize\FrmFindEmp.designer.cs">
+      <DependentUpon>FrmFindEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\Authorize\UndoRights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\Authorize\UndoRights.designer.cs">
+      <DependentUpon>UndoRights.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\BarCode\FrmBarCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\BarCode\FrmBarCode.Designer.cs">
+      <DependentUpon>FrmBarCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\BarCode\FrmBarcodePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\BarCode\FrmBarcodePrint.Designer.cs">
+      <DependentUpon>FrmBarcodePrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\BarCode\FrmBarcodeSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\BarCode\FrmBarcodeSettings.Designer.cs">
+      <DependentUpon>FrmBarcodeSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\BarCode\FrmBarcodeTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\BarCode\FrmBarcodeTemplate.Designer.cs">
+      <DependentUpon>FrmBarcodeTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\FrmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\FrmBase.Designer.cs">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmAddFingerPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmAddFingerPrint.designer.cs">
+      <DependentUpon>FrmAddFingerPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmBatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmBatch.Designer.cs">
+      <DependentUpon>FrmBatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmCaptureFace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmCaptureFace.Designer.cs">
+      <DependentUpon>FrmCaptureFace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmCapturePictureFace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmCapturePictureFace.Designer.cs">
+      <DependentUpon>FrmCapturePictureFace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmImportFaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmImportFaces.Designer.cs">
+      <DependentUpon>FrmImportFaces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmPickLeaveDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmPickLeaveDate.Designer.cs">
+      <DependentUpon>FrmPickLeaveDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmRecords.Designer.cs">
+      <DependentUpon>FrmRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\SerialSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\SerialSettingForm.designer.cs">
+      <DependentUpon>SerialSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmFaceManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmFaceManager.Designer.cs">
+      <DependentUpon>FrmFaceManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\ticketType\FrmEditTicketType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\ticketType\FrmEditTicketType.Designer.cs">
+      <DependentUpon>FrmEditTicketType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\ticketType\FrmAddTicketType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\ticketType\FrmAddTicketType.Designer.cs">
+      <DependentUpon>FrmAddTicketType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="config\AppSettings.cs" />
+    <Compile Include="config\CardReaderConfig.cs" />
+    <Compile Include="core\StartupEx.cs" />
+    <Compile Include="db\FrmDBConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="db\FrmDBConfig.Designer.cs">
+      <DependentUpon>FrmDBConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="db\DatabaseBak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="db\DatabaseBak.Designer.cs">
+      <DependentUpon>DatabaseBak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\dept\FrmDept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\dept\FrmDept.Designer.cs">
+      <DependentUpon>FrmDept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\ticketType\FrmEmpTicketTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\ticketType\FrmEmpTicketTypes.Designer.cs">
+      <DependentUpon>FrmEmpTicketTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\ticketType\FrmTicketType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\ticketType\FrmTicketType.Designer.cs">
+      <DependentUpon>FrmTicketType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\dept\FrmDeptAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\dept\FrmDeptAdd.Designer.cs">
+      <DependentUpon>FrmDeptAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\dept\FrmDeptEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\dept\FrmDeptEdit.Designer.cs">
+      <DependentUpon>FrmDeptEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\dept\FrmDeptRoot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\dept\FrmDeptRoot.Designer.cs">
+      <DependentUpon>FrmDeptRoot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FImport.designer.cs">
+      <DependentUpon>FImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmEmpEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmEmpEdit.Designer.cs">
+      <DependentUpon>FrmEmpEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmEmpAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmEmpAdd.Designer.cs">
+      <DependentUpon>FrmEmpAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmEmp.Designer.cs">
+      <DependentUpon>FrmEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmIDSerialReader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmIDSerialReader.Designer.cs">
+      <DependentUpon>FrmIDSerialReader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmImportSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmImportSettings.designer.cs">
+      <DependentUpon>FrmImportSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmPhotoCopy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmPhotoCopy.designer.cs">
+      <DependentUpon>FrmPhotoCopy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FSetCardPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FSetCardPass.Designer.cs">
+      <DependentUpon>FSetCardPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\USBCardReader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\USBCardReader.Designer.cs">
+      <DependentUpon>USBCardReader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal\emp\FrmEmpQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal\emp\FrmEmpQuery.Designer.cs">
+      <DependentUpon>FrmEmpQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Error\ErrorPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Error\ErrorPage.Designer.cs">
+      <DependentUpon>ErrorPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="log\FOperLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="log\FOperLog.designer.cs">
+      <DependentUpon>FOperLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="log\LogHelper.cs" />
+    <Compile Include="log\Logs.cs" />
+    <Compile Include="System\FrmPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\FrmPassword.designer.cs">
+      <DependentUpon>FrmPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="System\FrmOper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\FrmOper.Designer.cs">
+      <DependentUpon>FrmOper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="System\FrmOperAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\FrmOperAdd.Designer.cs">
+      <DependentUpon>FrmOperAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="System\FrmOperEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\FrmOperEdit.designer.cs">
+      <DependentUpon>FrmOperEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="System\FrmOperRights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\FrmOperRights.Designer.cs">
+      <DependentUpon>FrmOperRights.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LocalCache.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tools\ComboBoxHelper.cs" />
+    <Compile Include="Tools\TreeHelper.cs" />
+    <EmbeddedResource Include="about\HPTAbout.resx">
+      <DependentUpon>HPTAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmAddAttendData.resx">
+      <DependentUpon>FrmAddAttendData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmAttdAlyze.resx">
+      <DependentUpon>FrmAttdAlyze.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmAttendData.resx">
+      <DependentUpon>FrmAttendData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmAttendReports.resx">
+      <DependentUpon>FrmAttendReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmAttendRule.resx">
+      <DependentUpon>FrmAttendRule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmEditAttendData.resx">
+      <DependentUpon>FrmEditAttendData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmLeave.resx">
+      <DependentUpon>FrmLeave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmLeaveAdd.resx">
+      <DependentUpon>FrmLeaveAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmLeaveEdit.resx">
+      <DependentUpon>FrmLeaveEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmLeaveFind.resx">
+      <DependentUpon>FrmLeaveFind.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmRepairCard.resx">
+      <DependentUpon>FrmRepairCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmShiftAdd.resx">
+      <DependentUpon>FrmShiftAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmShiftEdit.resx">
+      <DependentUpon>FrmShiftEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmShiftManager.resx">
+      <DependentUpon>FrmShiftManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmShifts.resx">
+      <DependentUpon>FrmShifts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmShiftSchedule.resx">
+      <DependentUpon>FrmShiftSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmTimegroupOfShift.resx">
+      <DependentUpon>FrmTimegroupOfShift.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmTimegroupOfShiftAdd.resx">
+      <DependentUpon>FrmTimegroupOfShiftAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\FrmTimeGroupOfShiftEdit.resx">
+      <DependentUpon>FrmTimeGroupOfShiftEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\RptAttdSummaryDept.resx">
+      <DependentUpon>RptAttdSummaryDept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\RptAttdSummaryPersonal.resx">
+      <DependentUpon>RptAttdSummaryPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attend\RptOriginalRecord.resx">
+      <DependentUpon>RptOriginalRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\Authorize\AuthorProgress.resx">
+      <DependentUpon>AuthorProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\Authorize\FEmpAuthorize.resx">
+      <DependentUpon>FEmpAuthorize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\Authorize\FrmChooseEmpHasCard.resx">
+      <DependentUpon>FrmChooseEmpHasCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\Authorize\FrmRights.resx">
+      <DependentUpon>FrmRights.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\Authorize\FrmDevAuthorize.resx">
+      <DependentUpon>FrmDevAuthorize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\Authorize\FrmFindEmp.resx">
+      <DependentUpon>FrmFindEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\Authorize\UndoRights.resx">
+      <DependentUpon>UndoRights.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\BarCode\FrmBarCode.resx">
+      <DependentUpon>FrmBarCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\BarCode\FrmBarcodePrint.resx">
+      <DependentUpon>FrmBarcodePrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\BarCode\FrmBarcodeSettings.resx">
+      <DependentUpon>FrmBarcodeSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\BarCode\FrmBarcodeTemplate.resx">
+      <DependentUpon>FrmBarcodeTemplate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base\FrmBase.resx">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmAddFingerPrint.resx">
+      <DependentUpon>FrmAddFingerPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmBatch.resx">
+      <DependentUpon>FrmBatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmCaptureFace.resx">
+      <DependentUpon>FrmCaptureFace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmCapturePictureFace.resx">
+      <DependentUpon>FrmCapturePictureFace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmImportFaces.resx">
+      <DependentUpon>FrmImportFaces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmPickLeaveDate.resx">
+      <DependentUpon>FrmPickLeaveDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmRecords.resx">
+      <DependentUpon>FrmRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\SerialSettingForm.resx">
+      <DependentUpon>SerialSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmFaceManager.resx">
+      <DependentUpon>FrmFaceManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\ticketType\FrmEditTicketType.resx">
+      <DependentUpon>FrmEditTicketType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\ticketType\FrmAddTicketType.resx">
+      <DependentUpon>FrmAddTicketType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="db\DatabaseBak.resx">
+      <DependentUpon>DatabaseBak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="db\FrmDBConfig.resx">
+      <DependentUpon>FrmDBConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\dept\FrmDept.resx">
+      <DependentUpon>FrmDept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\ticketType\FrmEmpTicketTypes.resx">
+      <DependentUpon>FrmEmpTicketTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\ticketType\FrmTicketType.resx">
+      <DependentUpon>FrmTicketType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\dept\FrmDeptAdd.resx">
+      <DependentUpon>FrmDeptAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\dept\FrmDeptEdit.resx">
+      <DependentUpon>FrmDeptEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\dept\FrmDeptRoot.resx">
+      <DependentUpon>FrmDeptRoot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FImport.resx">
+      <DependentUpon>FImport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmEmpEdit.resx">
+      <DependentUpon>FrmEmpEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmEmpAdd.resx">
+      <DependentUpon>FrmEmpAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmEmp.resx">
+      <DependentUpon>FrmEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmIDSerialReader.resx">
+      <DependentUpon>FrmIDSerialReader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmImportSettings.resx">
+      <DependentUpon>FrmImportSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmPhotoCopy.resx">
+      <DependentUpon>FrmPhotoCopy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FSetCardPass.resx">
+      <DependentUpon>FSetCardPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\FrmEmpQuery.resx">
+      <DependentUpon>FrmEmpQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal\emp\USBCardReader.resx">
+      <DependentUpon>USBCardReader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Error\ErrorPage.resx">
+      <DependentUpon>ErrorPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="log\FOperLog.resx">
+      <DependentUpon>FOperLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\FrmPassword.resx">
+      <DependentUpon>FrmPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\FrmOper.resx">
+      <DependentUpon>FrmOper.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\FrmOperAdd.resx">
+      <DependentUpon>FrmOperAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\FrmOperEdit.resx">
+      <DependentUpon>FrmOperEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\FrmOperRights.resx">
+      <DependentUpon>FrmOperRights.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CardReader.config">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="OpenTK.dll.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HPT.Face\HPT.Face.csproj">
+      <Project>{0D366A7D-87B9-49F8-BD36-A702B4CF6616}</Project>
+      <Name>HPT.Face</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HPT.Gate.CardReader\HPT.Gate.CardReader.csproj">
+      <Project>{7d9ba256-b197-423c-b667-3af4d0593346}</Project>
+      <Name>HPT.Gate.CardReader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HPT.Gate.DataAccess\HPT.Gate.DataAccess.csproj">
+      <Project>{9b624df0-1d8f-4784-90d5-abca96d405e9}</Project>
+      <Name>HPT.Gate.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HPT.Gate.DBUtils\HPT.Gate.Utils.csproj">
+      <Project>{3342E970-4580-4616-91B6-2ED303867D8A}</Project>
+      <Name>HPT.Gate.Utils</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HPT.Gate.ZKFP\HPT.Gate.ZKFP.csproj">
+      <Project>{BADB9323-37A2-4639-A59E-762F4EEDB47D}</Project>
+      <Name>HPT.Gate.ZKFP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\hpt.Joey\HPT.Joey.Lib.csproj">
+      <Project>{15416920-c4da-4db0-a473-2f07c7dd4b85}</Project>
+      <Name>HPT.Joey.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="etc\haarcascades\haarcascade_frontalface_alt.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="hpt.gate.ico" />
+    <Content Include="Icon.ico" />
+    <Content Include="Image\DefaultPhoto.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\hpt.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="License-LGPL.txt" />
+    <None Include="Resources\close_hover.png" />
+    <None Include="Resources\close_normal.png" />
+    <None Include="Resources\close_press.png" />
+    <None Include="Resources\max_hover.png" />
+    <None Include="Resources\max_normal.png" />
+    <None Include="Resources\max_press.png" />
+    <None Include="Resources\min_hover.png" />
+    <None Include="Resources\min_normal.png" />
+    <None Include="Resources\min_press.png" />
+    <None Include="Resources\1529745161%281%29.jpg" />
+    <None Include="Resources\bg_top.jpg" />
+    <None Include="Resources\bt_add.png" />
+    <None Include="Resources\bt_delete.png" />
+    <None Include="Resources\bt_edit.png" />
+    <None Include="Resources\bt_lock.png" />
+    <None Include="Resources\bt_query.png" />
+    <None Include="Resources\btn_user.png" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\save.png" />
+    <None Include="Resources\open.png" />
+    <None Include="Resources\116.png" />
+    <None Include="Resources\face.png" />
+    <Content Include="Read Me.txt" />
+    <Content Include="update\hpt.gate.update.V2.7.3_1.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="update\Menus.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="update\Table.Sql" />
+    <Content Include="x64\msvcp120.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="x64\msvcr120.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="x86\msvcp120.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="x86\msvcr120.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="发卡器驱动\IC发卡器驱动.EXE">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="发卡器驱动\中控指纹仪驱动.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="发卡器驱动\华视身份证阅读器驱动.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
